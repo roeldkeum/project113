@@ -47,3 +47,6 @@ Several people have asked if they can use multiple threads in the code. I have t
 
 The deadline for the submission of the tournament code is Tuesday 24th January at 12 noon (i.e. 12 o'clock in the afternoon). This will give me enough time to run the tournament and to analyse the results. Note that this is different to the other deadlines involved in the project -- obviously these other deadlines still apply for the other deliverables.
 I will inform you of your group's score (and ranking) at the final project presentations. May the odds be ever in your favour...
+
+http://skelk.sdf-eu.org/graphcolouring/block3/ --> origin
+https://software.intel.com/en-us/node/596538 --> Intel Java Code analysis
